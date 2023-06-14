@@ -1,5 +1,5 @@
 <div align="center" > 
-<h2>SALONLEX : Hair Salon Appointment Booking System<h2>
+<h2>SALONLEX: Hair Salon Appointment Booking System<h2>
 <img width="30%" src="https://github.com/adityagithubraj/github-boot/blob/main/imge/SALONLEX%20(1).png"><br><br>
 
 <h2 align="center">Description </h2>
