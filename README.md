@@ -3,7 +3,6 @@
 <img width="30%" src="https://github.com/adityagithubraj/github-boot/blob/main/imge/SALONLEX%20(1).png"><br><br>
 
 <h2 align="center">Description </h2>
-<br>
 <h3>SALONLEX is a hair salon website that enables customers to book appointments online. The platform showcases available time slots, stylists, and charges for haircuts, allowing for a seamless user experience.
 </h3>
 </div>  
