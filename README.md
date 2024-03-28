@@ -36,7 +36,7 @@
 <br>
     
    <h2 align="center">Deployed Link</h2>
-  <h3 align="center">Frontend: https://salonlex.netlify.app/ </h3>
+  <h3 align="center">Frontend: https://hair-salon-appointment.netlify.app/ </h3>
    <h3 align="center">Backend: https://nice-pink-antelope-gear.cyclic.app/</h3>
 
 <br>
